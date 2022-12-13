@@ -1,0 +1,47 @@
+.nombrep{
+    font-size: 40px;
+}
+.subtitulo{
+    font-size: 20px;
+}
+.teal{
+    padding-top: 20px!important;
+    padding-bottom: 20px!important;
+}
+.pd-1{
+    font-size: 25px;
+    
+}
+.pt-10{
+    padding-top: 15px!important;
+}
+.mi-1{
+    margin-left: 23px;
+}
+.exp1{
+    font-size: 14px;
+}
+.mi-2{
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.list-1{
+    margin-bottom: 15px;
+    list-style: none;
+    margin-left: 23px;
+    display: flex;
+    flex-direction: column;
+}
+.list-2{
+    margin-left: 40px;
+}
+.contact{
+    margin-bottom: 10px;
+}
+.list-4{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+
